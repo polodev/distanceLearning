@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+#slider {
+    margin: 80px 0;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    height: 400px;
+    width: auto;
+}
